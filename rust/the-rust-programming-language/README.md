@@ -14,7 +14,7 @@ Progress:
 - [x] Chapter 8
 - [x] Chapter 9
 - [x] Chapter 10
-- [ ] Chapter 11
+- [x] Chapter 11
 - [ ] Chapter 12
 - [ ] Chapter 13
 - [ ] Chapter 14
